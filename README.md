@@ -29,7 +29,10 @@ A few presets for popular games:
 
 | Game                     | Color                               |
 | ------------------------ | ----------------------------------- |
+| Elemental Gearbolt (PSX) | #0000C5 (Blue, 0 0 197)
 | Point Blank (PSX)        | #DEDEDE (White/Grey, 222 222 222) |
 | Project Horned Owl (PSX) | #000CC7 (Blue,	0 12 199)          |
 | Time Crisis (PSX)        | #F8F8F8 (White, 248 248 248)      |
+| Time Crisis: Project Titan (PSX) | #669FFF (Sky Blue, 120 159 255), Threshold 0.11 |
 | Time Crisis 2 (PS2)      | #838383 (Grey, 131 131 131)       |
+
